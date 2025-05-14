@@ -4,7 +4,7 @@
 <h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
 
 <p align="center">
-  <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main/POLAMTREDDY%20REVANTH REDDY_NameBlock.png" title = "NameBlock" alt = "NameBlock"></a>
+  <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main-HEY%2C-I-am-Revanth-Reddy/POLAMREDDY%20REVANTH%20REDDY_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
 </p>
 
 <p align="center">
