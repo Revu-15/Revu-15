@@ -117,6 +117,9 @@ Click on the icon to see the associated repository (if available)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:polamreddyrevanth.82@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerranker)](https://www.hackerrank.com/profile/polamreddyrevan1)
+
+
 
 ---
 
@@ -157,3 +160,7 @@ Click on the icon to see the associated repository (if available)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revu-15&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Revu-15" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revu-15&theme=dark&background=000000" alt="Revu-15" />
+</p>
