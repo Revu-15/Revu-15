@@ -62,23 +62,23 @@ Click on the icon to see the associated repository (if available)
 
 <p>
     <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
-    <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/Shravan4598/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
+    <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/Revu-15/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
 </p>
 
 ### 🌟   Tools and Technologies :
 <br>
 
 <p>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
-    <a href="https://github.com/Shravan4598"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
+    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
+    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
+    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
+    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
 </p>
 
 </details>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shravan4598&label=Profile%20views&color=0e75b6&style=flat" alt="shravan4598" />
+  <img src="https://komarev.com/ghpvc/?username=Revu-15&label=Profile%20views&color=0e75b6&style=flat" alt="Revu-15" />
 </p>
 
 - 🔭 I’m currently working on **PRIME MEIDEN MEIDENSHA GROUP OF COMPAINES**
