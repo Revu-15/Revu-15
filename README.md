@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm POLAMREDDY REVANTH REDDY</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<!-- Ultra Stylish Minimal Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20RevanthReddy%20👋&height=150&fontSize=48&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Deep%20Learning%20%7C%20Artificial%20Intelligence&descAlignY=75&descAlign=50" />
+</p>
 
-<h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
+<!-- Smooth Typing Animation -->
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=6A11CB&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;AI+%26+Data+Science+Enthusiast;Deep+Learning+Researcher;Machine+Learning;Always+Exploring+New+Technologies" />
+</p>
+
+---
+
 
 <p align="center">
   <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main-HEY%2C-I-am-Revanth-Reddy/POLAMREDDY%20REVANTH%20REDDY_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
@@ -31,11 +40,19 @@
 - ⚡ Fun fact: I enjoy problem-solving and exploring new datasets in my free time! <br><br>
 - 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
 
-<details open>
-<summary><h2> 🛠  Languages and Tools :</h2></summary>
-<br>
-Click on the icon to see the associated repository (if available)
-<br>
+---
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,tensorflow,git,github,vscode,Jupyter" />
+</p>
+
+| Category            | Tools & Technologies |
+|--------------------|-----------------------|
+| **Programming**    | Python, C, C++, R |
+| **ML/DL**          | TensorFlow, NumPy, Pandas,Matplltlib Scikit-learn |
+| **Web Development**| HTML, CSS, JavaScript |
+| **Databases**      | MySQL |
+| **Version Control**| Git, GitHub |
 
 ### 📚  Languages :
 <br>
@@ -103,7 +120,22 @@ Click on the icon to see the associated repository (if available)
 
 ---
 
+## 🚀 Featured Projects
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+</p>
 
+| Project Name                      | Description                                                                                  | Tech Stack                          |
+| --------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **Flappy-Bird-RL-Agent**          | Developed a Reinforcement Learning Agent to play the Flappy Bird game autonomously           | Python, PyGame, TensorFlow, RL      |
+| **Student Performance Indicator** | Predicted student academic performance using various ML regression and classification models | Python, Scikit-learn, Pandas, NumPy |
+| **Iris Flower Classification**    | Classified Iris flower species using supervised machine learning models                      | Python, Scikit-learn, Pandas, NumPy |
+| **House Price Prediction**        | Predicted house prices based on features using regression techniques and ML algorithms       | Python, Scikit-learn, Pandas, NumPy |
+
+
+> 🚧 *More exciting projects are under development!*
+
+---
 
 - ⚡ Fun fact: **I love turning data into stories! 📊**
 - ⚡ Fun fact: **Data Never Lies! 📊**
@@ -145,6 +177,15 @@ Click on the icon to see the associated repository (if available)
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+## 🎯 Quote of the Day
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer" />
 </p>
 
 ---
