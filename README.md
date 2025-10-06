@@ -134,13 +134,18 @@ You can view my resume [Clickhere](https://drive.google.com/file/d/1_KqBILKri_39
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
 
-| Project Name                      | Description                                                                                  | Tech Stack                          |
-| --------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **Flappy-Bird-RL-Agent**          | Developed a Reinforcement Learning Agent to play the Flappy Bird game autonomously           | Python, PyGame, TensorFlow, RL      |
-| **Student Performance Indicator** | Predicted student academic performance using various ML regression and classification models | Python, Scikit-learn, Pandas, NumPy |
-| **Iris Flower Classification**    | Classified Iris flower species using supervised machine learning models                      | Python, Scikit-learn, Pandas, NumPy |
-| **House Price Prediction**        | Predicted house prices based on features using regression techniques and ML algorithms       | Python, Scikit-learn, Pandas, NumPy |
+## Projects  
+Here are some featured projects that you can see live:
 
+| Project | Description | Technologies / Notes |
+|---|---|---|
+| **Image Search Engine** | Responsive web app using an image API for dynamic search | HTML, CSS, JavaScript |
+| **Iris Flower Classification** | ML models (KNN, SVM, Logistic Regression) for classifying the Iris dataset | Python, scikit-learn, Streamlit |
+| **Weather Tracker App** | Real-time weather web app using external APIs | HTML, JavaScript, API integration |
+| **Student Performance Indicator** | ML model to predict academic performance, deployed via Flask | Python, Pandas, scikit-learn, Flask |
+| **QR Code Generator** | A responsive QR code generator web app built with HTML, CSS, and JavaScript. It allows users to create and download QR codes instantly |  HTML, JavaScript, API integration | 
+
+You can navigate to each live project via the [Projects section](https://portfoliorevanthreddy2005.netlify.app/).
 
 > 🚧 *More exciting projects are under development!*
 
