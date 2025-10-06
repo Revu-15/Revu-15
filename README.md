@@ -145,7 +145,7 @@ Here are some featured projects that you can see live:
 | **Student Performance Indicator** | ML model to predict academic performance, deployed via Flask | Python, Pandas, scikit-learn, Flask |
 | **QR Code Generator** | A responsive QR code generator web app built with HTML, CSS, and JavaScript. It allows users to create and download QR codes instantly |  HTML, JavaScript, API integration | 
 
-You can navigate to each live project via the [Projects section](https://portfoliorevanthreddy2005.netlify.app/).
+You can navigate to each live project via the [Projects section](https://portfoliorevanthreddy21.netlify.app/).
 
 > 🚧 *More exciting projects are under development!*
 
