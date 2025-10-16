@@ -27,7 +27,7 @@
 
 ## 📄 Resume
 
-You can view my resume [Clickhere](https://drive.google.com/file/d/1_KqBILKri_39ZMNbBKqu0vvv6zcTU2KD/view?usp=drivesdk).
+You can view my resume [Clickhere](https://drive.google.com/file/d/1tJ9vIvzAy7w5gKrwKLTIGquYCCbJAwQA/view?usp=drive_link).
 
 ---
 
