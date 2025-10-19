@@ -43,6 +43,7 @@ You can view my resume [Clickhere](https://drive.google.com/file/d/1tJ9vIvzAy7w5
 - 🌱 Currently exploring and learning various aspects of data science.<br><br>
 - 🐍 Proficient in Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
 - 💬 Ask me about data analysis and machine learning concepts! 😀<br><br>
+- 🌐 Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://revanth-reddy-2005.netlify.app/)  
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Revanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
 <a href ="mailto:"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - 😄 Pronouns: He/Him.<br><br>
@@ -145,7 +146,7 @@ Here are some featured projects that you can see live:
 | **Student Performance Indicator** | ML model to predict academic performance, deployed via Flask | Python, Pandas, scikit-learn, Flask |
 | **QR Code Generator** | A responsive QR code generator web app built with HTML, CSS, and JavaScript. It allows users to create and download QR codes instantly |  HTML, JavaScript, API integration | 
 
-You can navigate to each live project via the [Projects section](https://portfoliorevanthreddy21.netlify.app/).
+You can navigate to each live project via the [Projects section](https://revanth-reddy-2005.netlify.app/).
 
 > 🚧 *More exciting projects are under development!*
 
