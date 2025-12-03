@@ -206,16 +206,3 @@ You can navigate to each live project via the [Projects section](https://revanth
 
 ---
 
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revu-15&show_icons=true&locale=en" alt="Revu-15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revu-15&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Revu-15" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revu-15&theme=dark&background=000000" alt="Revu-15" />
-</p>
