@@ -27,7 +27,7 @@
 
 ## 📄 Resume
 
-You can view my resume [Clickhere](https://drive.google.com/file/d/1r_3fcEzoGsXKhKqKwSJJ2UK6vhnaHlbw/view?usp=sharing).
+You can view my resume [Clickhere](https://revu-15.netlify.app/).
 
 ---
 
