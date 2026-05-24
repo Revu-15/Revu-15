@@ -1,16 +1,8 @@
-<!-- Ultra Stylish Minimal Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A11CB&text=Hi%2C%20I'm%20RevanthReddy%20👋&height=150&fontSize=48&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Deep%20Learning%20%7C%20Artificial%20Intelligence&descAlignY=75&descAlign=50" />
-</p>
+<div align="center">
 
-<!-- Smooth Typing Animation -->
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=800&color=6A11CB&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;AI+%26+Data+Science+Enthusiast;Deep+Learning+Researcher;Machine+Learning;Always+Exploring+New+Technologies" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Polamreddy%20Revanth%20Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Researcher&descSize=18&descAlignY=55&descColor=fff" width="100%"/>
 
----
-
+</div>
 
 <p align="center">
   <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main-HEY%2C-I-am-Revanth-Reddy/POLAMREDDY%20REVANTH%20REDDY_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
@@ -22,187 +14,290 @@
 
 </p>
 
-
----
-
 ## 📄 Resume
 
-You can view my resume [Clickhere](https://revu-15.netlify.app/).
+You can view my resume [Clickhere](https://revu-15.netlify.app/)
+
+
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:polamreddyrevanth.82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Revu-15">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Revu-15&label=Profile+Views&color=a855f7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Revu-15?label=Followers&style=for-the-badge&color=a855f7&logoColor=white" />
+</div>
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="30"/> About Me
 
+```yaml
+Name        : Polamreddy Revanth Reddy
+Degree      : B.Tech (Hons.) in Data Science @ CSVTU Bhilai (2023–2027)
+CGPA        : 7.82 / 10
+Location    : Tirupati, Andhra Pradesh, India
+Email       : polamreddyrevanth.82@gmail.com
 
-### 👨‍💻 About Me :
+Research    :
+  - IIT Tirupati — SEVA Lab (Jan 2026 – Present)
+  - IIT Madras  — Dept. of CSE (May 2025 – Jul 2025)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
+Focus       : Machine Learning · Deep Learning · Reinforcement Learning
+              Computer Vision · Generative AI · Data Analytics
 
-- 👋 I’m POLAMREDDY REVANTH REDDY :student:<br><br>
-- 👀 I’m deeply interested in the world of data science and its applications.<br><br>
-<img src="https://cdn.dribbble.com/users/107759/screenshots/2835499/data_love.gif" height = 100><br>
-- 🌱 Currently exploring and learning various aspects of data science.<br><br>
-- 🐍 Proficient in Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
-- 💬 Ask me about data analysis and machine learning concepts! 😀<br><br>
-- 🌐 Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://reavnthreddy-22.netlify.app/)  
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Revanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
-<a href ="mailto:"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- 😄 Pronouns: He/Him.<br><br>
-- ⚡ Fun fact: I enjoy problem-solving and exploring new datasets in my free time! <br><br>
-- 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
+Status      : 🟢 Open to Work — Internships & Research Collaborations
+```
 
 ---
+
+## 🏛️ Research & Work Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 IIT Tirupati — SEVA Lab
+**Research Intern** &nbsp;|&nbsp; `Jan 2026 – Present`
+
+- 🔭 Under **Dr. Chalavadi Vishnu** on Secure & Efficient Vision for Autonomous Systems
+- 👁️ Computer vision & AI research for autonomous systems
+- ⚙️ Deep learning models on real-world datasets
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 IIT Madras — Dept. of CSE
+**Research Intern** &nbsp;|&nbsp; `May 2025 – Jul 2025`
+
+- 🏥 Deep learning for healthcare predictive modeling
+- 📈 Model accuracy improved via preprocessing & tuning
+- 🛠️ Python · TensorFlow · PyTorch · Scikit-learn
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 📊 Edunet Foundation — AI & Data Analytics Intern
+`Apr 2025 – May 2025` &nbsp;|&nbsp; Python-based preprocessing · ML pipelines · End-to-end AI lifecycle
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql,tensorflow,git,github,vscode,Jupyter" />
-</p>
 
-| Category            | Tools & Technologies |
-|--------------------|-----------------------|
-| **Programming**    | Python, C, C++, R |
-| **ML/DL**          | TensorFlow, NumPy, Pandas,Matplltlib Scikit-learn |
-| **Web Development**| HTML, CSS, JavaScript |
-| **Databases**      | MySQL |
-| **Version Control**| Git, GitHub |
+<div align="center">
 
-### 📚  Languages :
-<br>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
-</p>
+### 🤖 ML / AI / DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📑  Frameworks & Libraries :
-<br>
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
-</p>
+### 🚀 Deployment & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 💻  Databases :
-<br>
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
-    <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/Revu-15/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
-</p>
-
-### 🌟   Tools and Technologies :
-<br>
-
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
-</p>
-
-</details>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Revu-15&label=Profile%20views&color=0e75b6&style=flat" alt="Revu-15" />
-</p>
-
-- 🔭 I’m currently working on **PRIME MEIDEN MEIDENSHA GROUP OF COMPAINES**
-
-- 🌱 I’m currently learning **Machine Learning Algorithms and Basic of JAVA**
-
-- 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/Revu-15)
-
-- 📝 I regularly write project documentation and contribute to open-source repositories
-
-- 💬 Ask me about **Python, NumPy, Pandas, Machine Learning,Java**
-
-- 📫 Reach me at: **polamreddyrevanth.82@gmail.com**
-🌐 Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://revanth-reddy-2005.netlify.app/) 
-
-
----
-
-## 🎓 Certification
-
-**Certificate Name:** `AWS tranining certification,MATHWORKS,Python programming cisco networking,data analytics using Excel`
-
-**Certificate URL:** 🔗 [View Certificate Here](https://github.com/Revu-15/Certifications-Achievements)
-
+</div>
 
 ---
 
 ## 🚀 Featured Projects
+
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
 
-## Projects  
-Here are some featured projects that you can see live:
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Technologies / Notes |
+### 🌾 Crop Classification & Recommendation
+> ML-powered crop recommendation system using soil & climate parameters
+
+- ✅ **92% classification accuracy**
+- 🌲 Random Forest · SVM · Logistic Regression
+- 📊 Evaluated with accuracy & F1-score
+
+**Tech:** `Python` `Scikit-learn` `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://crop-classification-with-recommendation-systemrevanth15.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Flappy Bird RL Agent
+> Deep Q-Network agent that learns to play Flappy Bird
+
+- ✅ **~90% obstacle-avoidance accuracy**
+- 🧠 Experience Replay + Target Networks
+- 📈 Beats random agent by significant margin
+
+**Tech:** `Python` `DQN` `Reinforcement Learning`
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://flappy-bird-rl-agent-revanthreddy15.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Sepsis Detection Using ML
+> Clinical pipeline for early ICU sepsis detection
+
+- ⚖️ SMOTE balancing for class imbalance
+- 🔗 Model ensembling for higher accuracy
+- 📋 Real ICU patient records dataset
+
+**Tech:** `Python` `ML` `Healthcare`
+
+[![GitHub](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge)](https://github.com/Revu-15/Sepsis-Detection-using-Machine-Learning)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Student Performance Indicator
+> End-to-end ML pipeline predicting student scores
+
+- 🌐 Deployed as Flask app on Render
+- 🔄 Full ML pipeline from raw data to prediction
+- 📦 Production-ready architecture
+
+**Tech:** `Python` `Flask` `Scikit-learn` `Render`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_App-00C7B7?style=for-the-badge)](https://student-performance-indicator-bvyl.onrender.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 QR Code Using ML
+> Intelligent QR generation & decoding with ML
+
+- 🔳 Generate & decode QR codes via ML
+- 🖥️ Clean Streamlit interface
+
+**Tech:** `Python` `ML` `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://qr-code-using-ml-revanthreddy.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Market Trend Analysis
+> Statistical analysis uncovering market patterns
+
+- 📊 EDA on real market datasets
+- 📉 Trend detection via statistics
+- 🎨 Rich visualizations with Seaborn
+
+**Tech:** `Python` `Pandas` `Seaborn` `Statistics`
+
+[![GitHub](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge)](https://github.com/Revu-15/Market-trend-analysis)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📜 Certifications
+
+| 🏅 Certificate | 🏛️ Issuer | ✅ Status |
 |---|---|---|
-| **Image Search Engine** | Responsive web app using an image API for dynamic search | HTML, CSS, JavaScript |
-| **Iris Flower Classification** | ML models (KNN, SVM, Logistic Regression) for classifying the Iris dataset | Python, scikit-learn, Streamlit |
-| **Weather Tracker App** | Real-time weather web app using external APIs | HTML, JavaScript, API integration |
-| **Student Performance Indicator** | ML model to predict academic performance, deployed via Flask | Python, Pandas, scikit-learn, Flask |
-| **QR Code Generator** | A responsive QR code generator web app built with HTML, CSS, and JavaScript. It allows users to create and download QR codes instantly |  HTML, JavaScript, API integration | 
-
-You can navigate to each live project via the [Projects section](https://revanth-reddy-2005.netlify.app/).
-
-> 🚧 *More exciting projects are under development!*
+| Python (Basic) | HackerRank | ✅ Verified |
+| Data Science Workshop | Mindenious | ✅ Completed |
+| Complete Python for DS & ML | Krish Naik | ✅ Completed |
 
 ---
 
-- ⚡ Fun fact: **I love turning data into stories! 📊**
-- ⚡ Fun fact: **Data Never Lies! 📊**
+## 📊 GitHub Stats
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Revu-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Revu-15&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9" />
+</div>
 
----
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revu-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+</div>
 
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:polamreddyrevanth.82@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerranker)](https://www.hackerrank.com/profile/polamreddyrevan1)
-
-
-
----
-
-## Languages and Tools:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Revu-15&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" width="95%"/>
+</div>
 
 ---
 
-## 🎯 Quote of the Day
-> *"First, solve the problem. Then, write the code."* – John Johnson
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Revu-15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
 
 ---
 
+<div align="center">
+
+### 💬 Quote I Live By
+
+> *"Data is the new oil, but like oil, it's only valuable when refined."*
+
+<br/>
+
+**⭐ If you like my work, consider starring my repos and following me!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
