@@ -197,7 +197,7 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 
 **Tech:** `Python` `Flask` `React.js` `PyTorch` `SQLite`
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](YOUR_ECOSORT_LIVE_LINK)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://recyclable-waste-materials-for-smar.vercel.app/)
 
 </td>
 
@@ -212,7 +212,7 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 
 **Tech:** `React.js` `Node.js` `MongoDB` `Tailwind CSS`
 
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](YOUR_NEXCART_LIVE_LINK)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://full-stack-e-commerce-web-app-front-xi.vercel.app/)
 
 </td>
 </tr>
@@ -220,20 +220,6 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 Crop Disease Advisory System
-> CNN-based plant disease detection & treatment advisor
-
-- Classifies leaf images and diagnoses plant diseases
-- Provides real-time treatment recommendations for farmers
-- Interactive web application with image upload and instant predictions
-
-**Tech:** `Python` `TensorFlow` `Flask` `CNN`
-
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](YOUR_CROPDISEASE_LIVE_LINK)
-
-</td>
-
-<td width="50%" valign="top">
 
 ### 🌾 Crop Classification & Recommendation
 > ML-powered crop recommendation system using soil & climate parameters
