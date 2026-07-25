@@ -16,35 +16,46 @@
 
 ## 📄 Resume
 
-You can view my resume [Clickhere](https://revu-15.netlify.app/)
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1sv_2dcZFwsxsY1e2nX25BIniKO73YnZD/view?usp=sharing">📄 View Resume</a> •
+  <a href="https://revu-15.github.io/Protofilo/">🌐 Portfolio</a>
+</p>
 
-
-<br/>
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+
   <a href="mailto:polamreddyrevanth.82@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Revu-15">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <a href="https://github.com/Revu-15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <br/><br/>
+
+  <a href="https://takeuforward.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TakeUForward-171515?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <br><br>
+
   <img src="https://komarev.com/ghpvc/?username=Revu-15&label=Profile+Views&color=a855f7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Revu-15?label=Followers&style=for-the-badge&color=a855f7&logoColor=white" />
+
+  <img src="https://img.shields.io/github/followers/Revu-15?label=Followers&style=for-the-badge&color=a855f7" />
+
 </div>
 
 ---
@@ -69,7 +80,7 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 ```
 
 ---
-
+ 
 ## 🏛️ Research & Work Experience
 
 <table width="100%">
@@ -77,36 +88,54 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 <td width="50%" valign="top">
 
 ### 🔬 IIT Tirupati — SEVA Lab
-**Research Intern** &nbsp;|&nbsp; `Jan 2026 – Present`
+**Research Intern** | `Jan 2026 – Jun 2026`
 
-- 🔭 Under **Dr. Chalavadi Vishnu** on Secure & Efficient Vision for Autonomous Systems
-- 👁️ Computer vision & AI research for autonomous systems
-- ⚙️ Deep learning models on real-world datasets
+- Researched under **Dr. Chalavadi Vishnu** on Secure & Efficient Vision for Autonomous Systems
+- Designed deep learning models for robust real-world perception pipelines
+- Optimized models for both accuracy and inference efficiency
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🔬 IIT Madras — Dept. of CSE
-**Research Intern** &nbsp;|&nbsp; `May 2025 – Jul 2025`
+### 🔬 IIT Madras — Department of CSE
+**Research Intern** | `May 2025 – Jul 2025`
 
-- 🏥 Deep learning for healthcare predictive modeling
-- 📈 Model accuracy improved via preprocessing & tuning
-- 🛠️ Python · TensorFlow · PyTorch · Scikit-learn
+- Built predictive models for healthcare using deep learning and data analytics
+- Contributed to early-stage patient outcome forecasting research
+- Improved model accuracy through preprocessing, hyperparameter tuning, and cross-validation
 
 </td>
 </tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
 
-### 📊 Edunet Foundation — AI & Data Analytics Intern
-`Apr 2025 – May 2025` &nbsp;|&nbsp; Python-based preprocessing · ML pipelines · End-to-end AI lifecycle
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 Scholars' Minds, Tirupati
+**AI & Data Analytics Intern** | `Feb 2026 – May 2026`
+
+- Applied machine learning and data analytics on real-world datasets
+- Built end-to-end data pipelines including preprocessing, feature engineering, model training, and evaluation
+- Interpreted results and presented actionable insights
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 Edunet Foundation
+**AI & Data Analytics Intern** | `Apr 2025 – May 2025`
+
+- Worked on Python-based data preprocessing and machine learning workflows
+- Developed end-to-end AI solutions from data preparation to model evaluation
+- Gained practical experience with supervised learning algorithms and data visualization
 
 </td>
 </tr>
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -148,16 +177,62 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
 
-<div align="center">
 <table>
+
 <tr>
+<td width="50%" valign="top">
+
+### ♻️ EcoSort AI System
+> Full-stack waste classification web app
+
+- MobileNetV2 with transfer learning
+- Flask REST APIs + React.js frontend
+- Real-time predictions, analytics dashboard & history log
+
+**Tech:** `Python` `Flask` `React.js` `PyTorch` `SQLite`
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](YOUR_ECOSORT_LIVE_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 NexCart — Full-Stack E-Commerce
+> Amazon/Flipkart-inspired shopping platform
+
+- Product browsing, cart, wishlist & JWT authentication
+- Express.js + MongoDB REST APIs
+- Responsive React.js frontend
+
+**Tech:** `React.js` `Node.js` `MongoDB` `Tailwind CSS`
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](YOUR_NEXCART_LIVE_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Crop Disease Advisory System
+> CNN-based plant disease detection & treatment advisor
+
+- Classifies leaf images and diagnoses plant diseases
+- Provides real-time treatment recommendations for farmers
+- Interactive web application with image upload and instant predictions
+
+**Tech:** `Python` `TensorFlow` `Flask` `CNN`
+
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](YOUR_CROPDISEASE_LIVE_LINK)
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 🌾 Crop Classification & Recommendation
@@ -165,13 +240,16 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 
 - ✅ **92% classification accuracy**
 - 🌲 Random Forest · SVM · Logistic Regression
-- 📊 Evaluated with accuracy & F1-score
+- 📊 Evaluated with Accuracy & F1-score
 
 **Tech:** `Python` `Scikit-learn` `Streamlit`
 
 [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://crop-classification-with-recommendation-systemrevanth15.streamlit.app/)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🎮 Flappy Bird RL Agent
@@ -186,8 +264,7 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://flappy-bird-rl-agent-revanthreddy15.streamlit.app/)
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🏥 Sepsis Detection Using ML
@@ -202,6 +279,9 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 [![GitHub](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge)](https://github.com/Revu-15/Sepsis-Detection-using-Machine-Learning)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🎓 Student Performance Indicator
@@ -216,38 +296,56 @@ Status      : 🟢 Open to Work — Internships & Research Collaborations
 [![Live Demo](https://img.shields.io/badge/🌐_Live_App-00C7B7?style=for-the-badge)](https://student-performance-indicator-bvyl.onrender.com/)
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 📱 QR Code Using ML
-> Intelligent QR generation & decoding with ML
+> Intelligent QR generation & decoding
 
-- 🔳 Generate & decode QR codes via ML
-- 🖥️ Clean Streamlit interface
+- 🔳 Generate & decode QR codes
+- 🖥️ Interactive Streamlit interface
+- ⚡ Fast QR image processing
 
-**Tech:** `Python` `ML` `Streamlit`
+**Tech:** `Python` `Streamlit`
 
 [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-FF4B4B?style=for-the-badge)](https://qr-code-using-ml-revanthreddy.streamlit.app/)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 Market Trend Analysis
 > Statistical analysis uncovering market patterns
 
-- 📊 EDA on real market datasets
-- 📉 Trend detection via statistics
-- 🎨 Rich visualizations with Seaborn
+- 📊 Exploratory Data Analysis (EDA)
+- 📉 Trend detection using statistical techniques
+- 🎨 Interactive visualizations
 
 **Tech:** `Python` `Pandas` `Seaborn` `Statistics`
 
 [![GitHub](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge)](https://github.com/Revu-15/Market-trend-analysis)
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🌦️ Weather Tracker App
+> Real-time weather forecasting application
+
+- 🌍 Search weather by city
+- 📡 Live weather data using OpenWeatherMap API
+- 💻 Responsive web interface
+
+**Tech:** `HTML` `CSS` `JavaScript` `OpenWeatherMap API`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_App-00C7B7?style=for-the-badge)](https://wheatherapprevanthreddy.netlify.app/)
+
+</td>
 </tr>
+
 </table>
-</div>
 
 ---
 
